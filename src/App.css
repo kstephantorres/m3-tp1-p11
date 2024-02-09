@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.texto-card{
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height:3.8em;
+    
+}
+
+.col{
+    max-height: 70vh;
+}
+.cardContenedor {
+    height: 100%; 
+}
+.cardImagen {
+    height: 30%;
+    object-fit: cover; 
+}
+.contenedorTexto{
+    height: auto;
+}
