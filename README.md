@@ -1,8 +1,38 @@
-# React + Vite
+# Trabajo Practico N º 1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+_**PUNTO 11**_
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas 🛠️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://es.react.dev/)
+- [Vite](https://vitejs.dev/)
+- [React Bootstrap](https://react-bootstrap.netlify.app/)
+
+## Comenzando 🚀
+
+_Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina._
+
+_Clona el proyecto_
+```
+git clone https://github.com/kstephantorres/m3-tp1-p11.git
+``` 
+
+_Instala las dependencias_
+
+```
+cd m3-tp1-p11
+npm install
+```
+
+_Para ejecutar el proyecto en un entorno de desarrollo:_
+```
+npm run dev
+```
+
+## Despliegue 📦
+
+_[Deploy en Netlify](https://m3-tp1-p11.netlify.app/)_
+
+## Autor ✒️
+
+* **Torres Flores Kevin Stephan** - *Github* - [kstephantorres](https://github.com/kstephantorres)
