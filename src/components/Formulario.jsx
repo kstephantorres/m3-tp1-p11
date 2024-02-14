@@ -37,7 +37,6 @@ const Formulario = () => {
 
     const handleChange =(e)=>{
         const nuevoTag = e.target.value
-        console.log(e.target.value)
         setTag(nuevoTag)
     }
    
